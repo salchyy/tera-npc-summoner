@@ -4,7 +4,7 @@ Updated for MT server, GUI working properly.
 
 Description
 
-The SalchySummonerMaster mod is a convenient tool for Tera players, designed to simplify the summoning of various NPCs and services within the game. This mod provides a set of commands and a GUI for easy access to essential game functions like the bank, merchant, vanguard requests, and more.
+This mod provides a set of commands and a GUI for easy access to essential game functions like the bank, merchant, vanguard requests, and more.
 
 Features
 
